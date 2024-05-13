@@ -1,7 +1,7 @@
 # Workshop-projects
 Coding exercises
 
-### Goals: What we're trying to accomplish with each exercise is the following
+### Goals: We're trying to accomplish the following with each exercise
 - Understand the code (if there is code)
 - Generate documentation from the code, or create documentation based on requirements
 - Create unit tests
