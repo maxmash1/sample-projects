@@ -1,4 +1,4 @@
-# sample-projects
+# Workshop-projects
 Coding exercises
 
 ### Goals: What we're trying to accomplish with each exercise is the following
