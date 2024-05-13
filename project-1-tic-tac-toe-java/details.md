@@ -32,5 +32,5 @@ By the end of this workshop, you'll acquire the skills to be able to:
 If you have extra time, you can read more about GitHub Copilot and how to use it in your projects:
 - [Introduction to prompt engineering with GitHub Copilot](https://learn.microsoft.com/training/modules/introduction-prompt-engineering-with-github-copilot//?WT.mc_id=academic-113596-abartolo)
 - [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
-- [How to use GitHub Copilot: Prompts, tips, and use cases](hhttps://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
+- [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [10 Unexpected Ways to Use Github Copilot](https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot/)
