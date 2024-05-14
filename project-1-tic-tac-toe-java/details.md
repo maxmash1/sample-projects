@@ -1,6 +1,6 @@
 <header>
 
-# Project 2: Using GitHub Copilot To modify/fix an existing Tic Tac Toe game
+# Project 1: Using GitHub Copilot To modify/fix an existing Tic Tac Toe game
 
 In this workshop, we will focus on using the power of GitHub Copilot to fix issues with an existing project. There is a working Tic Tac Toe game written in Java but it has problems.
 
